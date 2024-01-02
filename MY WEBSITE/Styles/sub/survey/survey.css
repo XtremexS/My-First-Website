@@ -1,0 +1,65 @@
+.survey-items {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.header {
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    margin: 10px 0px 0px 0px;
+    display: block;
+}
+
+@font-face {font-family: Handwriting; src: url('others/Handwriting.ttf'); } 
+.header1 {
+    font-family:'Handwriting';
+    font-size: 35px;
+    margin: 20px 0px;
+    display: block;
+    text-decoration: underline;
+}
+
+.headerv2 {
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    margin: 40px 0px 0px 0px;
+    display: block;
+    text-decoration: underline;
+}
+
+ .header-radio {
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    margin: 20px 0px;
+    display: block;
+     
+ }
+
+
+.bar {
+    width: 200px;
+    outline: none;
+}
+
+
+.add {
+    width: 600px;
+}
+
+.cb {
+    vertical-align: middle;
+    margin: 5px 0px;
+    font-size: 17px;
+}
+
+.checkbox {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.checkbox-box {
+    display: flex;
+    flex-direction: column;
+}
